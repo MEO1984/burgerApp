@@ -1,0 +1,65 @@
+body{
+    background: #FCC117;
+}
+
+h1 {
+    color: #BC2A02; 
+    /* text-align: center; */
+}
+
+h5 {
+    color: darkslateblue;
+    /* text-align: center; */
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  list-style-type:none;
+}
+
+#burgerpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: auto;
+    width: 300px;
+    }
+
+#submitBtn {
+  margin: 0, auto;
+  /* text-align:center; */
+
+}    
+
+
+li {
+    /* text-align: center; */
+    color:black;
+    padding: 5px;
+    margin: 5px;
+    background: lightgoldenrodyellow;
+    
+  }
+
+  .devoured {
+      color: #8E8A8A; 
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  /* .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  } */
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
